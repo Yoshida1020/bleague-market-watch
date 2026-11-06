@@ -1,0 +1,14 @@
+{
+  "keywords": ["japan"],
+  "sports": ["basketball", "football"],
+  "sitemap_refresh_sec": 3600,
+  "exclude_league_ids": {
+    "118737": "Japan. J-League (J1)",
+    "30005": "Japan. J-League Division 2 (J2)",
+    "32869": "Japan. J3 League",
+    "977377": "Japan. Japan Football League (JFL)",
+    "1910046": "Japan. J-League. Statistics Round",
+    "110489": "Japan. WJBL",
+    "3094197": "Japan. B League Next"
+  }
+}
