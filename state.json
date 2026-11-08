@@ -41,9 +41,17 @@
    "2292019": {
     "sport": "football",
     "slug": "japan-we-league-women"
+   },
+   "3122274": {
+    "sport": "basketball",
+    "slug": "japan-premier-division-women"
+   },
+   "3122448": {
+    "sport": "basketball",
+    "slug": "japan-future-division-women"
    }
   },
-  "sitemap_ts": 1794099340.4091175
+  "sitemap_ts": 1794120795.5762079
  },
  "3093264": {
   "768445370": 1793955900,
@@ -75,5 +83,7 @@
  "2292019": {
   "768530050": 1794108600,
   "768510971": 1794110400
- }
+ },
+ "3122274": {},
+ "3122448": {}
 }
